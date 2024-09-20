@@ -1,0 +1,3 @@
+uppercased.txt
+sentences.txt
+sorted.txt
